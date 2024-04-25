@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T08:05:52.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="71rLc0vWQbnsmQYsnWY7" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T08:12:43.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iYIlufj0qU2Bo3ywLnhC" version="24.3.0" type="github">
   <diagram name="페이지-1" id="MK5Hw0KBVoJ_4Murm1ev">
-    <mxGraphModel dx="2049" dy="1040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
           <mxGeometry x="310" y="977.5" width="80" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="ANXaPgxON0iwH09Vxr6g-122" value="결제 히스토리" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="310" y="862.5" width="80" height="22.5" as="geometry" />
+          <mxGeometry x="310" y="863.5" width="80" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="ANXaPgxON0iwH09Vxr6g-123" value="알림 히스토리" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="310" y="920" width="80" height="22.5" as="geometry" />
