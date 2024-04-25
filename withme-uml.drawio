@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T08:05:18.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="nhC6bxj0tXA1C89nBy2w" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T08:05:52.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="71rLc0vWQbnsmQYsnWY7" version="24.3.0" type="github">
   <diagram name="페이지-1" id="MK5Hw0KBVoJ_4Murm1ev">
-    <mxGraphModel dx="989" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,13 +176,13 @@
         <mxCell id="ANXaPgxON0iwH09Vxr6g-89" value="&lt;span style=&quot;background-color: initial;&quot;&gt;gathering service&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="615" y="683.75" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ANXaPgxON0iwH09Vxr6g-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ANXaPgxON0iwH09Vxr6g-92" target="NeVZHB2cAkmc2NvBBLA5-1" edge="1">
+        <mxCell id="ANXaPgxON0iwH09Vxr6g-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ANXaPgxON0iwH09Vxr6g-92" target="NeVZHB2cAkmc2NvBBLA5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140.00001902497934" y="674.4827586206898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ANXaPgxON0iwH09Vxr6g-92" value="비회원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="655" width="30" height="60" as="geometry" />
+          <mxGeometry x="34" y="644.75" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ANXaPgxON0iwH09Vxr6g-93" value="회&lt;span style=&quot;background-color: initial;&quot;&gt;원&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="825" width="30" height="60" as="geometry" />
